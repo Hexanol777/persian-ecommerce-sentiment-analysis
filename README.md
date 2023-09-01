@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code and resources to training a ML model to perform sentiment analysis on Persian text. The model is trained on a dataset collected from Digikala.com, an Iranian e-Commerce website. The dataset used in the training process can be found on Kaggle [here](link_to_dataset).
+This repository contains the code and resources to training a ML model to perform sentiment analysis on Persian text. The model is trained on a dataset collected from Digikala.com, an Iranian e-Commerce website. The dataset used in the training process can be found on Kaggle [here](https://www.kaggle.com/datasets/soheiltehranipour/digikala-comments-persian-sentiment-analysis).
 
 The data preprocessing stage included the following steps to prepare the text data for training:
 
