@@ -17,7 +17,7 @@ The model was trained using keras and utilizing a feedforward neural network wit
 ### Parameters
 
 ```python
-# Model specifications
+# Model parameters
 nb_classes = 2
 batch_size = 32
 nb_epochs = 10
