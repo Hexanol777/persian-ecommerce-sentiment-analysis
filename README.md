@@ -13,7 +13,7 @@ The data preprocessing stage included the following steps to prepare the text da
 
 ## Model
 
-The model was trained using keras and utilizing a feedforward neural network with multiple dense layers. Dropout layers with a dropout rate of 0.5 were added to reduce overfitting. The model is compiled with the categorical cross-entropy loss function and the `Adam` optimizer. You can change the parameters based on your specific requirements and dataset to optimize the model for your use case.
+The model was trained using keras utilizing a feedforward neural network with multiple dense layers. Dropout layers with a dropout rate of 0.5 were added to reduce overfitting. The model is compiled with the categorical cross-entropy loss function and the `Adam` optimizer. You can change the parameters based on your specific requirements and dataset to optimize the model for your use case.
 ### Parameters
 
 ```python
